@@ -12,7 +12,7 @@
 
 ### 安装
 
-[GitHub release]()
+[GitHub release](https://github.com/KM911/fr/releases/tag/publish)
 
 ### 使用方式
 
